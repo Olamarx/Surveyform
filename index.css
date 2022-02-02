@@ -22,6 +22,7 @@
     transform: translate(-50%,-50%);
     box-sizing: border-box;
     padding: 70px 30px;
+    margin-bottom: 10px;
 }
 #survey-form{
     padding: 10px;
@@ -31,7 +32,7 @@
 }
 
 #button{
-    color: green;
+    color: red;
     border-radius: 12px;
     border-color: blue;
 }
