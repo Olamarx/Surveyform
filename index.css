@@ -14,7 +14,7 @@
 #form {
     width: 50rem;
     height: 500px;
-    background: green;
+    background: blue;
     color: #fff;
     top: 50%;
     left: 50%;
@@ -32,6 +32,8 @@
 
 #button{
     color: green;
+    border-radius: 12px;
+    border-color: blue;
 }
 
 
