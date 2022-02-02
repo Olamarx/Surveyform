@@ -12,8 +12,8 @@
 
 
 #form {
-    width: 50rem;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     background: blue;
     color: #fff;
     top: 50%;
@@ -23,6 +23,7 @@
     box-sizing: border-box;
     padding: 70px 30px;
     margin-bottom: 10px;
+    border-radius:12px;
 }
 #survey-form{
     padding: 10px;
@@ -35,10 +36,8 @@
     color: red;
     border-radius: 12px;
     border-color: blue;
+    flex: 1 1 80%;
 }
-
-
-
 
 
 #description{
